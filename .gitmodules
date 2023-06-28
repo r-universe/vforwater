@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "json2aRgs"]
 	path = json2aRgs
 	url = https://github.com/vforwater/json2args
-	shallow = true
-	registered = true
